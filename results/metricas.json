@@ -15,7 +15,7 @@
       "COM_FERIDOS": 1.0,
       "FATAL": 0.0
     },
-    "segundos_treino_e_avaliacao": 1.2
+    "segundos_treino_e_avaliacao": 1.4
   },
   {
     "modelo": "Random Forest",
@@ -33,24 +33,24 @@
       "COM_FERIDOS": 0.6079559289018749,
       "FATAL": 0.4221713538260301
     },
-    "segundos_treino_e_avaliacao": 23.7
+    "segundos_treino_e_avaliacao": 10.3
   },
   {
     "modelo": "Regressão Logística Multinomial",
-    "acuracia": 0.4817521667837901,
-    "f1_macro": 0.3752042558039516,
-    "f1_weighted": 0.5433782328852471,
-    "roc_auc_ovr_macro": 0.6434803556881623,
+    "acuracia": 0.4812133989224643,
+    "f1_macro": 0.3749481890187781,
+    "f1_weighted": 0.5427707166156188,
+    "roc_auc_ovr_macro": 0.6435215437639991,
     "f1_por_classe": {
-      "SEM_VITIMAS": 0.27818791946308724,
-      "COM_FERIDOS": 0.6282431785543322,
-      "FATAL": 0.21918166939443534
+      "SEM_VITIMAS": 0.27778398302245055,
+      "COM_FERIDOS": 0.6275020591108472,
+      "FATAL": 0.21955852492303662
     },
     "recall_por_classe": {
       "SEM_VITIMAS": 0.3670306965761511,
-      "COM_FERIDOS": 0.499299975651327,
-      "FATAL": 0.5474166121648136
+      "COM_FERIDOS": 0.4985390796201607,
+      "FATAL": 0.5480706344015697
     },
-    "segundos_treino_e_avaliacao": 8.6
+    "segundos_treino_e_avaliacao": 8.1
   }
 ]

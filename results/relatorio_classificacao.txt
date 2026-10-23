@@ -25,10 +25,10 @@ weighted avg      0.695     0.559     0.606     42690
 === Regressão Logística Multinomial ===
               precision    recall  f1-score   support
 
- SEM_VITIMAS      0.224     0.367     0.278      6776
- COM_FERIDOS      0.847     0.499     0.628     32856
-       FATAL      0.137     0.547     0.219      3058
+ SEM_VITIMAS      0.223     0.367     0.278      6776
+ COM_FERIDOS      0.846     0.499     0.628     32856
+       FATAL      0.137     0.548     0.220      3058
 
-    accuracy                          0.482     42690
-   macro avg      0.403     0.471     0.375     42690
-weighted avg      0.697     0.482     0.543     42690
+    accuracy                          0.481     42690
+   macro avg      0.402     0.471     0.375     42690
+weighted avg      0.697     0.481     0.543     42690
