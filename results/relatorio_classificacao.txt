@@ -10,18 +10,6 @@
 weighted avg      0.592     0.770     0.669     42690
 
 
-=== Random Forest ===
-              precision    recall  f1-score   support
-
- SEM_VITIMAS      0.244     0.381     0.297      6776
- COM_FERIDOS      0.839     0.608     0.705     32856
-       FATAL      0.156     0.422     0.228      3058
-
-    accuracy                          0.559     42690
-   macro avg      0.413     0.470     0.410     42690
-weighted avg      0.695     0.559     0.606     42690
-
-
 === Regressão Logística Multinomial ===
               precision    recall  f1-score   support
 
@@ -32,3 +20,27 @@ weighted avg      0.695     0.559     0.606     42690
     accuracy                          0.482     42690
    macro avg      0.403     0.471     0.375     42690
 weighted avg      0.697     0.482     0.543     42690
+
+
+=== Gradient Boosting ===
+              precision    recall  f1-score   support
+
+ SEM_VITIMAS      0.236     0.407     0.299      6776
+ COM_FERIDOS      0.853     0.505     0.634     32856
+       FATAL      0.142     0.537     0.224      3058
+
+    accuracy                          0.492     42690
+   macro avg      0.410     0.483     0.386     42690
+weighted avg      0.704     0.492     0.552     42690
+
+
+=== Random Forest ===
+              precision    recall  f1-score   support
+
+ SEM_VITIMAS      0.244     0.381     0.297      6776
+ COM_FERIDOS      0.839     0.608     0.705     32856
+       FATAL      0.156     0.422     0.228      3058
+
+    accuracy                          0.559     42690
+   macro avg      0.413     0.470     0.410     42690
+weighted avg      0.695     0.559     0.606     42690

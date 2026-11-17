@@ -229,3 +229,5 @@ data/outputs/*
 
 # Ignorar qualquer outro CSV solto no projeto
 *.csv
+# ...mas manter as tabelas de resultados (são pequenas e citadas no artigo)
+!results/*.csv

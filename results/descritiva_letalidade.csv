@@ -1,0 +1,18 @@
+grupo,condicao,n_sinistros,pct_fatal
+Total,Todos os sinistros,213447,7.162902266136324
+Horário,Madrugada (0h a 5h59),26531,11.66936790923825
+Horário,Demais horários,186916,6.523251086049349
+Tipo de pista,Simples,103377,9.886144887160588
+Tipo de pista,Dupla,89523,4.712755381298661
+Tipo de pista,Múltipla,20547,4.136856962086923
+Traçado,Reta,118575,7.12629137676576
+Traçado,Curva,24492,7.66780989710926
+Traçado,Reta em declive,6171,10.500729217306757
+Traçado,Reta em aclive,5333,9.263078942433904
+Traçado,Interseção de vias,5209,2.1885198694567096
+UF,RR (índice médio 5.81; pista simples 86.7%),421,16.6270783847981
+UF,MA (índice médio 5.65; pista simples 75.3%),3563,19.59023294976144
+UF,PA (índice médio 5.42; pista simples 77.0%),2986,18.921634293369056
+UF,AM (índice médio 4.57; pista simples 90.5%),412,12.864077669902912
+UF,BA (índice médio 4.51; pista simples 73.4%),12014,11.61145330447811
+UF,Brasil (pista simples 48.4%),213447,7.162902266136324
